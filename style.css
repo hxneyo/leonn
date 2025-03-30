@@ -1,0 +1,153 @@
+#tit1{
+    color: hotpink;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+
+body{
+    text-align: center;
+    background-color: rgb(rgb(255, 255, 255), rgb(255, 255, 255), rgb(255, 255, 255));
+}
+
+lk img1{
+    height: 1000px;
+    width: 1000px;
+}
+
+#txt1{
+    font-family: Arial, Helvetica, sans-serif;
+    color: hotpink;
+    font-size: 30px;
+}
+
+#txt2{
+    font-family: cursive;
+    color: rgb(160, 19, 90);
+    font-size: 70px;
+}
+
+#gif{
+    height: 500px;
+    width: 500px;
+    
+    text-align: right;
+}
+
+#gif2{
+    height: 500px;
+    width: 500px;
+
+    text-align: left;
+}
+
+#txt3{
+    text-align: left;
+    color: hotpink;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tit2{
+    color: rgb(160, 19, 90);
+   font-size: 70px;
+   font-family: cursive;
+
+}
+
+#txt4{
+    color: hotpink;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+#giforg{
+    height: 200px;
+    width: 1000px;
+}
+
+#tit3{
+    color: rgb(160, 19, 90);
+    font-size: 70px;
+    font-family: cursive;
+}
+
+#br1{
+    font-size: 100px;
+}
+
+#txt5{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: hotpink;
+}
+
+#img2{
+    width: 400px;
+    height: 400px;
+}
+
+#txt6{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: hotpink;
+}
+
+#tktk{
+    font-size: 40px;
+    color: violet;
+}
+
+#tktk2{
+    font-size: 40px;
+    color: rgb(209, 86, 209);
+}
+
+#tktk3{
+    font-size: 40px;
+    color: rgb(160, 48, 160);
+}
+
+#txt7{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: hotpink;
+}
+
+#tit4{
+    font-family: cursive;
+    font-size: 70px;
+    color: rgb(160, 19, 90);
+}
+
+#txt8{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: hotpink;
+}
+
+#img3{
+    height: 400px;
+    width: 400px;
+}
+
+#tit5{
+    font-family: cursive;
+    color: rgb(160, 19, 90);
+    font-size: 70px;
+}
+
+#txt9{
+    font-family: Arial, Helvetica, sans-serif;
+    color: hotpink;
+    font-size: 40px;
+}
+
+#gif3{
+    height: 600px;
+    width: 600px;
+}
+
+#txt10{
+    font-family: Arial, Helvetica, sans-serif;
+    color: hotpink;
+}
